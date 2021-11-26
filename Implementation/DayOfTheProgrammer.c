@@ -14,13 +14,13 @@ int main()
 {
 	int year,calculatedValue;
 	char array[12][20]={"01","02","03","04","05","06","07","08","09","10","11","12"};
-        int Jnry = 31;
+    int Jnry = 31;
 	int Mrch = 31;
 	int My = 31;
 	int Jly = 31;
 	int Agst = 31;
-        int Fbry = 29;
-        int Aprl = 30;
+    int Fbry = 29;
+    int Aprl = 30;
 	int Jn = 30;
     
     int sum = Jnry+Fbry+Mrch+Aprl+My+Jn+Jly+Agst;
